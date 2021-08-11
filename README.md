@@ -1,2 +1,3 @@
 # INTEGRAÇÃO RD STATION - PHP
-rdstation api
+Integrando RD com banco de dados MYSQL utilizando PHP. 
+Consumindo webhooks e API REST
